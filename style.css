@@ -1,0 +1,36 @@
+body {
+    background-color: #abd1c6;
+    color: #e8e4e6;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+body h1 {
+    color: black;
+    font-size: 3rem;
+}
+
+.ms_contenitore {
+    background-color: #004643;
+    border-radius: 25px;
+    padding: 25px;
+}
+
+.ms_colonna {
+    background-color: #e8e4e6;
+    color: #001e1d;
+    border-radius: 25px;
+    padding: 25px;
+    margin: 0 auto;
+}
+
+.ms_colonna span {
+    font-weight: bold;
+}
+
+#ms_button {
+    background-color: #e16162;
+}
